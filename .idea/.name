@@ -1,0 +1,5 @@
+Greatest_Common_Divisor_of_Two_Numbers
+ * @param {number} num1
+ * @param {number} num2
+ * @return {number}
+ */
